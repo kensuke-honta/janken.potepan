@@ -82,7 +82,7 @@ def attimuite
         puts "あなたの負けです。。。"
         exit
         else
-          puts "ジャンケンから再スタート"
+          puts "ジャンケンから再スタート..."
           puts "-----------------------------------------------"
           return janken
     end
